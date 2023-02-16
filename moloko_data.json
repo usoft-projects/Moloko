@@ -1,0 +1,469 @@
+{
+  "Bitki Çayları": [
+    {
+      "details": "Kış Çayı",
+      "image": "",
+      "name": "Kış Çayı",
+      "price": 30
+    },
+    {
+      "details": "Ihlamur",
+      "image": "",
+      "name": "Ihlamur",
+      "price": 30
+    },
+    {
+      "details": "Ada Çayı",
+      "image": "",
+      "name": "Ada Çayı",
+      "price": 30
+    },
+    {
+      "details": "Kuşburnu",
+      "image": "",
+      "name": "Kuşburnu",
+      "price": 30
+    },
+    {
+      "details": "Nane Limon",
+      "image": "",
+      "name": "Nane Limon",
+      "price": 30
+    }
+  ],
+  "Börekler": [
+    {
+      "details": "1 Porsiyon",
+      "image": "",
+      "name": "Günün Böreği",
+      "price": 45
+    }
+  ],
+  "Dolap İçecekleri": [
+    {
+      "details": "Kola",
+      "image": "",
+      "name": "Kola",
+      "price": 17
+    },
+    {
+      "details": "Fanta",
+      "image": "",
+      "name": "Fanta",
+      "price": 17
+    },
+    {
+      "details": "FuseTea",
+      "image": "",
+      "name": "FuseTea",
+      "price": 17
+    },
+    {
+      "details": "Ayran",
+      "image": "",
+      "name": "Ayran",
+      "price": 12
+    },
+    {
+      "details": "Şalgam",
+      "image": "",
+      "name": "Şalgam",
+      "price": 12
+    },
+    {
+      "details": "Churcill",
+      "image": "",
+      "name": "Churcill",
+      "price": 15
+    },
+    {
+      "details": "Su",
+      "image": "",
+      "name": "Su",
+      "price": 5
+    }
+  ],
+  "Frozen Çeşitleri": [
+    {
+      "details": "Çilekli Frozen",
+      "image": "",
+      "name": "Çilekli Frozen",
+      "price": 35
+    },
+    {
+      "details": "Mangolu Frozen",
+      "image": "",
+      "name": "Mangolu Frozen",
+      "price": 35
+    },
+    {
+      "details": "Orman Meyveli Frozen",
+      "image": "",
+      "name": "Orman Meyveli Frozen",
+      "price": 35
+    },
+    {
+      "details": "Elmalı Frozen",
+      "image": "",
+      "name": "Elmalı Frozen",
+      "price": 35
+    },
+    {
+      "details": "Karpuzlu Frozen",
+      "image": "",
+      "name": "Karpuzlu Frozen",
+      "price": 35
+    },
+    {
+      "details": "Karadutlu Frozen",
+      "image": "",
+      "name": "Karadutlu Frozen",
+      "price": 35
+    }
+  ],
+  "Lahmacunlar": [
+    {
+      "details": "Adet",
+      "image": "",
+      "name": "Lahmacun",
+      "price": 20
+    },
+    {
+      "details": "Adet",
+      "image": "",
+      "name": "Fındık Lahmacun",
+      "price": 8
+    }
+  ],
+  "Limonatalar": [
+    {
+      "details": "Limonata",
+      "image": "",
+      "name": "Limonata",
+      "price": 25
+    },
+    {
+      "details": "Çilekli Limonata",
+      "image": "",
+      "name": "Çilekli Limonata",
+      "price": 30
+    },
+    {
+      "details": "Orman Meyveli Limonata",
+      "image": "",
+      "name": "Orman Meyveli Limonata",
+      "price": 30
+    },
+    {
+      "details": "Naneli Limonata",
+      "image": "",
+      "name": "Naneli Limonata",
+      "price": 30
+    }
+  ],
+  "Milkshake Çeşitleri": [
+    {
+      "details": "Çikolatalı Milkshake",
+      "image": "",
+      "name": "Çikolatalı Milkshake",
+      "price": 35
+    },
+    {
+      "details": "Çilekli Milkshake",
+      "image": "",
+      "name": "Çilekli Milkshake",
+      "price": 35
+    },
+    {
+      "details": "Vanilyalı Milkshake",
+      "image": "",
+      "name": "Vanilyalı Milkshake",
+      "price": 35
+    },
+    {
+      "details": "Muzlu Milkshake",
+      "image": "",
+      "name": "Muzlu Milkshake",
+      "price": 35
+    }
+  ],
+  "Pideler": [
+    {
+      "details": "Kaşarılı Pide",
+      "image": "",
+      "name": "Kaşarılı Pide",
+      "price": 48
+    },
+    {
+      "details": "Kuşbaşılı Pide",
+      "image": "",
+      "name": "Kuşbaşılı Pide",
+      "price": 72
+    },
+    {
+      "details": "Kaşarlı & Kuşbaşılı Pide",
+      "image": "",
+      "name": "Kaşarlı & Kuşbaşılı Pide",
+      "price": 78
+    },
+    {
+      "details": "Kıymalı & Kaşarlı Pide",
+      "image": "",
+      "name": "Kıymalı & Kaşarlı Pide",
+      "price": 66
+    },
+    {
+      "details": "Kıymalı & Yumartalı Pide",
+      "image": "",
+      "name": "Kıymalı & Yumartalı Pide",
+      "price": 66
+    },
+    {
+      "details": "Kaşarlı & Yumartalı Pide",
+      "image": "",
+      "name": "Kaşarlı & Yumartalı Pide",
+      "price": 58
+    },
+    {
+      "details": "Vejeteryan Pide",
+      "image": "",
+      "name": "Vejeteryan Pide",
+      "price": 58
+    }
+  ],
+  "Soğuk Kahveler": [
+    {
+      "details": "Iced latte",
+      "image": "",
+      "name": "Iced latte",
+      "price": 30
+    },
+    {
+      "details": "Iced Americano",
+      "image": "",
+      "name": "Iced Americano",
+      "price": 30
+    },
+    {
+      "details": "Iced White Mocha",
+      "image": "",
+      "name": "Iced White Mocha",
+      "price": 35
+    },
+    {
+      "details": "Iced Mocha",
+      "image": "",
+      "name": "Iced Mocha",
+      "price": 35
+    },
+    {
+      "details": "Iced caramel Machiato",
+      "image": "",
+      "name": "Iced caramel Machiato",
+      "price": 35
+    },
+    {
+      "details": "Iced Aromalı Latte",
+      "image": "",
+      "name": "Iced Aromalı Latte",
+      "price": 35
+    }
+  ],
+  "Sıcak İçecekler": [
+    {
+      "details": "Latte",
+      "image": "",
+      "name": "Latte",
+      "price": 25
+    },
+    {
+      "details": "Mocha",
+      "image": "",
+      "name": "Mocha",
+      "price": 30
+    },
+    {
+      "details": "Cappuccino",
+      "image": "",
+      "name": "Cappuccino",
+      "price": 25
+    },
+    {
+      "details": "White Mocha",
+      "image": "",
+      "name": "White Mocha",
+      "price": 30
+    },
+    {
+      "details": "Americano",
+      "image": "",
+      "name": "Americano",
+      "price": 25
+    },
+    {
+      "details": "Caramel Machiato",
+      "image": "",
+      "name": "Caramel Machiato",
+      "price": 30
+    },
+    {
+      "details": "Espresso",
+      "image": "",
+      "name": "Espresso",
+      "price": 25
+    },
+    {
+      "details": "Filtre Kahve",
+      "image": "",
+      "name": "Filtre Kahve",
+      "price": 25
+    },
+    {
+      "details": "Türk Kahvesi",
+      "image": "",
+      "name": "Türk Kahvesi",
+      "price": 20
+    },
+    {
+      "details": "Dibek Kahvesi",
+      "image": "",
+      "name": "Dibek Kahvesi",
+      "price": 22
+    },
+    {
+      "details": "Menengiç Kahvesi",
+      "image": "",
+      "name": "Menengiç Kahvesi",
+      "price": 22
+    },
+    {
+      "details": "Sıcak Çikolata",
+      "image": "",
+      "name": "Sıcak Çikolata",
+      "price": 25
+    },
+    {
+      "details": "Semaver Çayı",
+      "image": "",
+      "name": "Semaver Çayı",
+      "price": 80
+    },
+    {
+      "details": "Çay",
+      "image": "",
+      "name": "Çay",
+      "price": 8
+    }
+  ],
+  "Tatlılar": [
+    {
+      "details": "Künefe",
+      "image": "",
+      "name": "Künefe",
+      "price": 35
+    },
+    {
+      "details": "Katmer",
+      "image": "",
+      "name": "Katmer",
+      "price": 40
+    },
+    {
+      "details": "Burma Kadayıf",
+      "image": "",
+      "name": "Burma Kadayıf",
+      "price": 40
+    },
+    {
+      "details": "Sütlaç",
+      "image": "",
+      "name": "Sütlaç",
+      "price": 28
+    }
+  ],
+  "Urfa Izgara Çeşitleri": [
+    {
+      "details": "Yarım - 42TL",
+      "image": "",
+      "name": "Kuzu Ciğer",
+      "price": 75
+    },
+    {
+      "details": "Yarım - 65TL",
+      "image": "",
+      "name": "Kuşbaşı",
+      "price": 115
+    },
+    {
+      "details": "Yarım - 42TL",
+      "image": "",
+      "name": "Adana Kebap",
+      "price": 75
+    },
+    {
+      "details": "Yarım - 42TL",
+      "image": "",
+      "name": "Urfa Kebap",
+      "price": 75
+    },
+    {
+      "details": "Yarım - 42TL",
+      "image": "",
+      "name": "Urfa Haşhaş Kebap",
+      "price": 75
+    },
+    {
+      "details": "Yarım - 55TL",
+      "image": "",
+      "name": "Domatesli Kebap",
+      "price": 98
+    },
+    {
+      "details": "Yarım - 55TL",
+      "image": "",
+      "name": "Patlıcanlı Kebap",
+      "price": 98
+    },
+    {
+      "details": "Yarım - 38TL",
+      "image": "",
+      "name": "Terbiyeli Tavuk",
+      "price": 64
+    },
+    {
+      "details": "Yarım - 38TL",
+      "image": "",
+      "name": "Terbiyesiz Tavuk",
+      "price": 64
+    },
+    {
+      "details": "1 Kişilkik",
+      "image": "",
+      "name": "Karışık Urfa ",
+      "price": 135
+    }
+  ],
+  "Çorba": [
+    {
+      "details": "Günün Çorbası",
+      "image": "",
+      "name": "Günün Çorbası",
+      "price": 25
+    }
+  ],
+  "1Configurations":[
+    "Çorba",
+    "Lahmacunlar",
+    "Pideler",
+    "Börekler",
+    "Urfa Izgara Çeşitleri",
+    "Sıcak İçecekler",
+    "Bitki Çayları",
+    "Soğuk Kahveler",
+    "Limonatalar",
+    "Frozen Çeşitleri",
+    "Milkshake Çeşitleri",
+    "Dolap İçecekleri",
+    "Tatlılar"
+  ]
+}
